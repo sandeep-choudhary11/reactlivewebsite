@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/https//sandeep-choudhary11.github.io/reactlivewebsite/static/css/main.a2383e98.chunk.css",
+    "main.js": "/https//sandeep-choudhary11.github.io/reactlivewebsite/static/js/main.4b53aac8.chunk.js",
+    "main.js.map": "/https//sandeep-choudhary11.github.io/reactlivewebsite/static/js/main.4b53aac8.chunk.js.map",
+    "runtime-main.js": "/https//sandeep-choudhary11.github.io/reactlivewebsite/static/js/runtime-main.21aac810.js",
+    "runtime-main.js.map": "/https//sandeep-choudhary11.github.io/reactlivewebsite/static/js/runtime-main.21aac810.js.map",
+    "static/css/2.4819d237.chunk.css": "/https//sandeep-choudhary11.github.io/reactlivewebsite/static/css/2.4819d237.chunk.css",
+    "static/js/2.3e0f42a5.chunk.js": "/https//sandeep-choudhary11.github.io/reactlivewebsite/static/js/2.3e0f42a5.chunk.js",
+    "static/js/2.3e0f42a5.chunk.js.map": "/https//sandeep-choudhary11.github.io/reactlivewebsite/static/js/2.3e0f42a5.chunk.js.map",
+    "index.html": "/https//sandeep-choudhary11.github.io/reactlivewebsite/index.html",
+    "precache-manifest.3fc1d6e2cf3c46bbed1d0859f53a8ac5.js": "/https//sandeep-choudhary11.github.io/reactlivewebsite/precache-manifest.3fc1d6e2cf3c46bbed1d0859f53a8ac5.js",
+    "service-worker.js": "/https//sandeep-choudhary11.github.io/reactlivewebsite/service-worker.js",
+    "static/css/2.4819d237.chunk.css.map": "/https//sandeep-choudhary11.github.io/reactlivewebsite/static/css/2.4819d237.chunk.css.map",
+    "static/css/main.a2383e98.chunk.css.map": "/https//sandeep-choudhary11.github.io/reactlivewebsite/static/css/main.a2383e98.chunk.css.map",
+    "static/js/2.3e0f42a5.chunk.js.LICENSE.txt": "/https//sandeep-choudhary11.github.io/reactlivewebsite/static/js/2.3e0f42a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21aac810.js",
+    "static/css/2.4819d237.chunk.css",
+    "static/js/2.3e0f42a5.chunk.js",
+    "static/css/main.a2383e98.chunk.css",
+    "static/js/main.4b53aac8.chunk.js"
+  ]
+}
